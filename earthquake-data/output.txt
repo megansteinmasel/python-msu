@@ -1,0 +1,126 @@
+The average earthquake magnitude is 1.51
+
+Alphabetical Order of Earthquake Locations
+------------------------------------------
+  1. Afghanistan
+  2. Alaska
+  3. Anguilla
+  4. Argentina
+  5. Arizona
+  6. Arkansas
+  7. Ascension Island region
+  8. Australia
+  9. Azerbaijan
+ 10. Azores-Cape St. Vincent Ridge
+ 11. Bolivia
+ 12. British Virgin Islands
+ 13. Burma
+ 14. California
+ 15. Canada
+ 16. Central East Pacific Rise
+ 17. Central Mid-Atlantic Ridge
+ 18. Chagos Archipelago region
+ 19. Chile
+ 20. China
+ 21. Christmas Island
+ 22. Colombia
+ 23. Colorado
+ 24. Costa Rica
+ 25. Cyprus
+ 26. Dominican Republic
+ 27. East Timor
+ 28. East of the Kuril Islands
+ 29. Ecuador
+ 30. El Salvador
+ 31. Fiji
+ 32. Fiji region
+ 33. Georgia
+ 34. Greece
+ 35. Greenland Sea
+ 36. Guam
+ 37. Guatemala
+ 38. Hawaii
+ 39. Idaho
+ 40. Illinois
+ 41. India
+ 42. Indonesia
+ 43. Iran
+ 44. Italy
+ 45. Japan
+ 46. Japan region
+ 47. Kansas
+ 48. Kiribati region
+ 49. Kuril Islands
+ 50. Kyrgyzstan
+ 51. Martinique
+ 52. Mexico
+ 53. Mid-Indian Ridge
+ 54. Missouri
+ 55. Montana
+ 56. Nevada
+ 57. New Caledonia
+ 58. New Hampshire
+ 59. New Jersey
+ 60. New York
+ 61. New Zealand
+ 62. Nicaragua
+ 63. North Carolina
+ 64. North of Ascension Island
+ 65. North of Svalbard
+ 66. Northern California
+ 67. Northern Mariana Islands
+ 68. Northern Mid-Atlantic Ridge
+ 69. Northwest of Australia
+ 70. Off the coast of Oregon
+ 71. Ohio
+ 72. Oklahoma
+ 73. Oregon
+ 74. Pacific-Antarctic Ridge
+ 75. Pakistan
+ 76. Palau
+ 77. Panama
+ 78. Papua New Guinea
+ 79. Pennsylvania
+ 80. Peru
+ 81. Philippines
+ 82. Poland
+ 83. Portugal
+ 84. Puerto Rico
+ 85. Reykjanes Ridge
+ 86. Russia
+ 87. Solomon Islands
+ 88. South Georgia Island region
+ 89. South Georgia and the South Sandwich Islands
+ 90. South Indian Ocean
+ 91. South Sandwich Islands
+ 92. South of Africa
+ 93. South of Panama
+ 94. South of the Fiji Islands
+ 95. Southern East Pacific Rise
+ 96. Southern Mid-Atlantic Ridge
+ 97. Southwest Indian Ridge
+ 98. Syria
+ 99. Taiwan
+100. Tajikistan
+101. Tennessee
+102. Texas
+103. Tonga
+104. Turkey
+105. U.S. Virgin Islands
+106. Ukraine
+107. Utah
+108. Uzbekistan
+109. Vanuatu
+110. Vanuatu region
+111. Venezuela
+112. Virgin Islands region
+113. Virginia
+114. Washington
+115. West Virginia
+116. Western Indian-Antarctic Ridge
+117. Western Xizang
+118. Wyoming
+
+Enter a lower bound for the magnitude: 5.0
+Enter an upper bound for the magnitude: 6.0
+Number of recorded earthquakes between 5.00 and 6.00 = 125
